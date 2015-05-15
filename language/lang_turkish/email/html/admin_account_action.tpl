@@ -1,7 +1,7 @@
-Subject: {SUBJECT}
+Konu: {SUBJECT}
 
 <br /><font face="Verdana" size="2">
-Hi <b>{USERNAME}</b>,
+Merhaba <b>{USERNAME}</b>,
 <br /><br />
 
 {TEXT}.
