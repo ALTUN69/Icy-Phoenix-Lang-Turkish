@@ -610,8 +610,8 @@ $lang = array_merge($lang, array(
 	'Wrong_Profile' => 'You cannot modify a profile that is not your own.',
 
 // Invision View Profile - BEGIN
-	'Invision_Active_Stats' => 'Stats',
-	'Invision_Communicate' => 'Communicate',
+	'Invision_Active_Stats' => 'İstatistikler',
+	'Invision_Communicate' => 'İletişim',
 	'Invision_Info' => 'Information',
 	'Invision_Member_Group' => 'Member Group',
 	'Invision_Member_Title' => 'Member Title',
@@ -619,8 +619,8 @@ $lang = array_merge($lang, array(
 	'Invision_Most_Active_Posts' => '%s posts in this forum',
 	'Invision_Details' => 'Posting Details',
 	'Invision_PPD_Stats' => 'Posts Per Day',
-	'Invision_Signature' => 'Signature',
-	'Invision_Website' => 'Home Page',
+	'Invision_Signature' => 'İmza',
+	'Invision_Website' => 'Ana Sayfa',
 	'Invision_Total_Posts' => 'Total Cumulative Posts',
 	'Invision_User_post_pct_stats' => '(%.2f%% of total forum posts)',
 	'Invision_User_post_day_stats' => '%.2f posts per day',
