@@ -175,11 +175,11 @@ $lang = array_merge($lang, array(
 	'Reply_to_topic' => 'Konuya cevap gönder',
 	'Reply_with_quote' => 'Alıntıyla cevapla',
 
-	'Click_return_login' => 'Click %sHere%s to try again',
-	'Click_return_index' => 'Click %sHere%s to return to the Index',
-	'Click_return_forum' => 'Click %sHere%s to return to the forum',
-	'Click_return_topic' => 'Click %sHere%s to return to the topic', // %s's here are for uris, do not remove!
-	'Click_return_viewtopic' => 'Click %sHere%s to return to the topic',
+	'Click_return_login' => 'Tekrar denemek için %sBuraya%s tıklayın',
+	'Click_return_index' => 'Ana Sayfaya geri dönmek için %sBuraya%s tıklayın',
+	'Click_return_forum' => 'Foruma geri dönmek için %sBuraya%s tıklayın',
+	'Click_return_topic' => 'Konuya dönmek için %sBuraya%s tıklayın', // %s's here are for uris, do not remove!
+	'Click_return_viewtopic' => 'Konuya dönmek için %sBuraya%s tıklayın',
 	'Click_return_modcp' => 'Click %sHere%s to return to the Moderator Control Panel',
 	'Click_return_profile' => 'Click %sHere%s to return to User Profile',
 	'Click_return_preferences' => 'Click %sHere%s to return to Preferences',
