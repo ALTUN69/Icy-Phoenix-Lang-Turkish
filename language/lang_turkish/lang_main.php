@@ -180,18 +180,18 @@ $lang = array_merge($lang, array(
 	'Click_return_forum' => 'Foruma geri dönmek için %sBuraya%s tıklayın',
 	'Click_return_topic' => 'Konuya dönmek için %sBuraya%s tıklayın', // %s's here are for uris, do not remove!
 	'Click_return_viewtopic' => 'Konuya dönmek için %sBuraya%s tıklayın',
-	'Click_return_modcp' => 'Click %sHere%s to return to the Moderator Control Panel',
-	'Click_return_profile' => 'Click %sHere%s to return to User Profile',
-	'Click_return_preferences' => 'Click %sHere%s to return to Preferences',
-	'Click_return_group' => 'Click %sHere%s to return to group information',
-	'Click_return_drafts' => 'Click %sHere%s to return to Drafts',
-	'Click_return_inbox' => 'Click %sHere%s to return to your Inbox',
-	'Click_view_message' => 'Click %sHere%s to view your message',
-	'Click_view_privmsg' => 'Click %sHere%s to visit your Inbox',
+	'Click_return_modcp' => 'Moderatör Kontrol Paneline dönmek için %sBuraya%s tıklayın',
+	'Click_return_profile' => 'Kullanıcı Profiline dönmek için %sBuraya%s tıklayın',
+	'Click_return_preferences' => 'Tercihlere dönmek için %sBuraya%s tıklayın',
+	'Click_return_group' => 'Grup Bilgilerine dönmek için %sBuraya%s tıklayın',
+	'Click_return_drafts' => 'Taslaklara dönmek için %sBuraya%s tıklayın',
+	'Click_return_inbox' => 'Gelen Kutunuza dönmek için %sBuraya%s tıklayın',
+	'Click_view_message' => 'Mesajınızı görmek için %sBuraya%s tıklayın',
+	'Click_view_privmsg' => 'Gelen Kutunuzu ziyaret etmek için %sBuraya%s tıklayın',
 
-	'Admin_panel' => 'ACP',
+	'Admin_panel' => 'YKP',
 
-	'Board_disabled' => 'Sorry, but this site is currently unavailable. Please try again later.',
+	'Board_disabled' => 'Üzgünüz, ancak bu site şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.',
 
 // Global Header strings
 	'Registered_users' => 'Kayıtlı Kullanıcılar:',
@@ -242,7 +242,7 @@ $lang = array_merge($lang, array(
 	'Posted_article_total' => 'Kullanıcılarımız toplam <b>%d</b> mesaj gönderdiler', // Number of posts
 	'Registered_users_zero_total' => 'Toplam <b>0</b> kayıtlı kullanıcımız var', // # registered users
 	'Registered_users_total' => 'Toplam <b>%d</b> kayıtlı kullanıcımız var', // # registered users
-	'Registered_user_total' => 'We have <b>%d</b> kayıtlı kullanıcımız var', // # registered users
+	'Registered_user_total' => '<b>%d</b> kayıtlı kullanıcılara sahibiz', // # registered users
 	'Newest_user' => 'Yeni kayıtlı kullanıcımız <b>%s%s%s</b>', // a href, username, /a
 
 	'No_new_posts_last_visit' => 'Son ziyaretinizden beri yeni mesaj yok',
